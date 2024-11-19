@@ -5,5 +5,5 @@
 
 **PHASE 2** A heuristic search algorithm like the A* algo or an alternate like Djikstra can then be used to find the optimal path between the nodes.
 
-The current architecture being used for the means of semantic segmentation is a derived U-Net architecture which is currently using BCE loss but eventually will be using diceloss.
+The current architecture being used for the means of semantic segmentation is a derived U-Net architecture which is currently using BCE loss but eventually will be using diceloss as the loss function
 
